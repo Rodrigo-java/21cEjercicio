@@ -1,0 +1,22 @@
+body{
+    background-image: url(../21cEjercicio/Imagenes/alemania.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+h1{
+
+    text-align: center;
+}
+.videod{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.texto{
+    font-family: Arial;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+}
